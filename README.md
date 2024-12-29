@@ -11,7 +11,7 @@ This project implements an **Image Caption Generator** using a combination of **
 - [Tools and Technologies](#tools-and-technologies)  
 - [Results](#results)  
 - [Future Work](#future-work)  
-- [Contributors](#contributors)  
+  
 
 ---
 
@@ -93,5 +93,5 @@ Despite constraints, the model demonstrated promising results, and accuracy is e
 3. **Practical Applications**  
    - Use in education and safety-critical environments, enabling better accessibility for all users.  
 
----
+
 
